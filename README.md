@@ -8,9 +8,15 @@
 ## Analysis and Challenges
     Possible challenges would be to format your original data in the correct way, mostly in regards to the date formatting needed.  
 ### Analysis of Outcomes Based on Launch Date
-    By using a pivot table, I created filters based on Parent Category and Years.  I filtered to only theater for the parent category since that is what we were interested in reviewing for all years. I added the date the kickstarter was created into the rows and grouped them by months. I pulled the Outcomes into the columns section and also used the count of outcomes for the values I wanted to see.  This then provided a table and line graph to view outcomes by kickstarter launch date. 
+    By using a pivot table, I created filters based on Parent Category and Years.  I filtered to only theater for the parent category since that is what we were interested in 
+    reviewing for all years. I added the date the kickstarter was created into the rows and grouped them by months. I pulled the Outcomes into the columns section and also used
+    the count of outcomes for the values I wanted to see.  This then provided a table and line graph to view outcomes by kickstarter launch date. 
+    
 ### Analysis of Outcomes Based on Goals
-    In a separate tab from the Kickstarter data, I made new columns and rows that I could include formulas from the original data set in.  I created a column for each possible outcome and then included the total projects so I could calculate the percentage of each outcome.  Each percentage of outcome also a column of its own.  For rows, I created groups for goal outcomes to see trends on a range of amounts versus a row for for every specific amount.  This allowed for a more general summary and better visualization in my line graph.  I then used the CountIf formula to pull in the criteria that matched the ranges of amounts I had set and if it was in the subcategory of "plays".  
+    In a separate tab from the Kickstarter data, I made new columns and rows that I could include formulas from the original data set in.  I created a column for each possible
+    outcome and then included the total projects so I could calculate the percentage of each outcome.  Each percentage of outcome also a column of its own.  For rows, I created
+    groups for goal outcomes to see trends on a range of amounts versus a row for for every specific amount.  This allowed for a more general summary and better visualization in
+    my line graph.  I then used the CountIf formula to pull in the criteria that matched the ranges of amounts I had set and if it was in the subcategory of "plays".  
 ### Challenges and Difficulties Encountered
   
 ## Results
